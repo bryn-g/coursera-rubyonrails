@@ -1,2 +1,2 @@
 # coursera-rubyonrails
-Ruby on Rails: An Introduction
+Coursera: Ruby on Rails - An Introduction
