@@ -17,10 +17,7 @@ class LineAnalyzer
 
     word_frequency.each_pair do |key, value|
       case
-      when @highest_wf_count.nil?
-        @highest_wf_words = [key]
-        @highest_wf_count = value
-      when value > @highest_wf_count
+      when @highest_wf_count.nil?, value > @highest_wf_count
         @highest_wf_words = [key]
         @highest_wf_count = value
       when value == @highest_wf_count
