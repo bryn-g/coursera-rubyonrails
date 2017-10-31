@@ -46,6 +46,19 @@ $ rails new <app_name>
 # run application
 $ rails server
 ```
+#### other requirements
+```sh
+# install phantomjs - headless browser
+$ brew install phantomjs
+
+# rspec for unit testing
+$ gem install rspec
+$ gem install rspec-its
+
+# http and restful web services
+$ gem install httparty
+$ gem install webmock
+```
 ### zip command used for final assignment submission
 ```sh
 # zip the rails application and exclude some unecessary files
