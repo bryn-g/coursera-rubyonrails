@@ -1,5 +1,5 @@
 # coursera-rubyonrails
-Coursera: Ruby on Rails - An Introduction
+## Coursera: Ruby on Rails - An Introduction
 
 ### development environment set-up
 ```sh
