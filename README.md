@@ -58,6 +58,12 @@ $ gem install rspec-its
 # http and restful web services
 $ gem install httparty
 $ gem install webmock
+
+# real user simulation tests
+$ gem install capybara
+
+# phantomjs driver for capybara - allows headless tests on webkit browser
+$ gem insall poltergeist
 ```
 ### zip command used for final assignment submission
 ```sh
